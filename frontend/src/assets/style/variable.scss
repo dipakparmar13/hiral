@@ -1,0 +1,84 @@
+$font-sans-serif: 'Poppins', sans-serif;
+//Font
+$gray: #E5E5E5;
+$gray-66: #666666;
+$gray-93: #939393;
+$sliver: #8692A6;
+$dark-gray: #7A7A9D;
+$blue: #3B5999;
+$gray96: #969696;
+$zumthor: #E1E8FF;
+$light-red: #FBECEC;
+$light-red2: #EEEEEE;
+$dark-300:rgba(0, 0, 0, 0.32);
+$blue-magenta: #B5B5BD;
+$green: #66CB9F;
+$dark-black: #041529;
+
+// Form Input 
+$input-disabled-bg:     transparent;
+
+
+//Table
+$table-light-th-bg: #FAFAFB;
+$table-light-th-color: #8492A6;
+$table-th-font-weight: 500;
+$table-color: #425466;
+
+  // Font Size
+$font-size-sm:                0.75rem;
+$font-size-base:              .875rem;
+$font-size-lg:                1rem;
+
+$h1-font-size:                2.25rem;
+$h2-font-size:                2rem;
+$h3-font-size:                1.75rem;
+$h4-font-size:                1.5rem;
+$h5-font-size:                1.25rem;
+$h6-font-size:                1rem;
+
+// Buttons
+$btn-font-weight:             600;
+
+$btn-padding-y-sm:            0.25rem;
+$btn-padding-x-sm:            0.5rem;
+$btn-font-size-sm:            0.75rem;
+
+// Button Neutral
+$btn-neutral-border-color:          $gray;
+
+
+// Toast
+$toast-max-width: 100%;
+$toast-border-color: transparent;
+$toast-box-shadow: none;
+$toast-padding-x: 0;
+
+// Bootstrap Theme Colors
+$primary: #4C6FFF;
+$danger: #E90909;
+$darkorange: #FF8C00;
+$brightred: #F16063;
+
+$custom-colors:  (
+  "bright-red":  $brightred,
+  "dark-orange": $darkorange
+);  
+  
+//import the functions & variables
+@import "@webpixels/css/core/functions";
+@import "@webpixels/css/core/variables";
+@import "@webpixels/css/core/maps";
+@import "@webpixels/css/core/mixins";
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+  
+// Import Bootstrap / Webpixel
+@import "@webpixels/css/base";
+@import "@webpixels/css/forms";
+@import "@webpixels/css/components";
+@import "@webpixels/css/extras";
+
+@import "@webpixels/css/utilities";
+@import "bootstrap/scss/utilities/api";

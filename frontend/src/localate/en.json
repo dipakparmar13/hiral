@@ -1,0 +1,260 @@
+{
+  "Catalogue": {
+    "products": "Products"
+  },
+  "AddMemberModal": {
+    "addMembers": "Add members",
+    "selectCurrent": "Select current members of the organization.",
+    "inviteUsers": "Invite 3 users"
+  },
+  "AddressCard": {
+    "address": "Address of the organization",
+    "completingData": "By completing your data, your customers will be able to identify who they are talking to.",
+    "addres": "Address",
+    "taxNumber": "Tax number",
+    "city": "City",
+    "country": "Country",
+    "postalCode": "Postal code",
+    "Validation": {
+      "email": "Please enter you email.",
+      "phoneNumber": "Please enter you phoneNumber.",
+      "addres": "Please enter you addres.",
+      "taxNumber": "Please enter you taxNumber.",
+      "city": "Please enter you city name.",
+      "country": "Please enter you country name.",
+      "postalCode": "Please enter you postalCode."
+    }
+  },
+  "Chat": {
+    "restaurant": "Restaurant",
+    "enterMessage": "Enter message",
+    "joinMessage": "joined this channnel",
+    "date": "Tuesday, April 18",
+    "chatPlaceholder": "Write your message"
+  },
+  "Detail": {
+    "customerDetails": "Customer details"
+  },
+  "InvitationModal": {
+    "customerAccount": "Customer account",
+    "sms": "SMS",
+    "email": "Email",
+    "Validation": {
+      "customerAccount": "Please enter you account.",
+      "phoneNumber": "Please enter you phoneNumber.",
+      "typeOforganization": "Please select organization."
+    }
+  },
+  "DataTable": {
+    "company": "Company",
+    "orderDate": "Order date",
+    "amount": "Amount",
+    "deliveryDate": "Delivery date"
+  },
+  "EditModal": {
+    "accountNumbers": "Account numbers",
+    "business": "Company",
+    "phoneNumber": "Phone number",
+    "address": "Address",
+    "Validation": {
+      "accountNumber": "Please enter you accountNumber.",
+      "company": "Please enter you company name.",
+      "phoneNumber": "Please enter you phoneNumber.",
+      "typeOfOrganization": "Please select cafeteria.",
+      "address": "Please enter you address."
+    }
+  },
+  "DeleteAccount": {
+    "deleteAccount": "Delete account",
+    "clickOnDeleteAccount": "If you click on 'delete this account', the account will be permanently deleted."
+  },
+  "DeleteModal": {
+    "deleteSure": "Are you sure you want to delete?",
+    "deleteAllAccess": "If you click the delete button on the tab, you will automatically remove all access to the account."
+  },
+  "EditMember": {
+    "roleType": "Type of role",
+    "placeHolder": "robert.fox@example.com",
+    "bonnie": "Bonnie Green",
+    "Validation": {
+      "email": "Please enter you email.",
+      "name": "Please enter you name.",
+      "role": "Please select role."
+    }
+  },
+  "Filter": {
+    "nowadays": "Today's",
+    "custom": "Personalized",
+    "yesterday": "Yesterday",
+    "thisWeek": "This week",
+    "thisMonth": "This month",
+    "to": "to",
+    "apply": "Apply",
+    "endDate": "End date",
+    "startDate": "Start date"
+  },
+  "Status": {
+    "dateFilters": "Date Filtres",
+    "see_everything": "seeEverything",
+    "confirm": "confirm",
+    "onHold": "onHold",
+    "cancel": "cancel",
+    "close": "close"
+  },
+  "Header": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "organization": "Organisation"
+  },
+  "HeaderData": {
+    "dashboard": "Dashboard",
+    "catalogue": "Catalogue",
+    "contact": "Contacts",
+    "setting": "Account settings",
+    "tableaubord":"Tableau de bord"
+  },
+  "InviteMemberModal": {
+    "emailAddress": "E-mail address",
+    "manageAndInvite": "Manage and invite team members.",
+    "add": "Add",
+    "invite": "Invite",
+    "Validation": {
+      "email": "Please enter you email.",
+      "role": "Please select role."
+    },
+    "Options": {
+      "Admin": "Admin",
+      "Employe": "Employe",
+      "Administrator": "Administrator",
+      "Billing": "Billing"
+    }
+  },
+  "ProductModal": {
+    "AddProduct": "Ajouter un produit",
+    "File": "Déposer",
+    "ChooseFile": "Choisir le fichier",
+    "No File Chosen": "Aucun fichier choisi",
+    "Save": "Sauvegarder",
+    "Cancel": "Annuler"
+  },
+  "Management": {
+    "roleManagement": "Role management",
+    "manageYourAccount": "Manage your account roles and give your administrators only the required permissions."
+  },
+  "Memeber": {
+    "invite": "+ Invite",
+    "viewAll": "View all"
+  },
+  "MemberCard": {
+    "editMembers": "Modify the members"
+  },
+  "Messaging": {
+    "messaging": "Messaging"
+  },
+  "Overview": {
+    "orderOverview": "Order overview",
+    "total": "Total",
+    "subtotal": "Subtotal"
+  },
+  "OrderTable": {
+    "image": "Image",
+    "quantity": "Quantity",
+    "unitPrice": "Price per unit ($)"
+  },
+  "OrderTracking": {
+    "orderTracking": "Order tracking",
+    "confirm": "Confirm",
+    "confirmed": "Mark as confirming"
+  },
+  "OrganizationCard": {
+    "organization": "Name of the organization",
+    "visibleName": "This is the visible name of your organization in Neobox.",
+    "logo": "Logo",
+    "download": "Upload"
+  },
+  "ProductTable": {
+    "image": "Image",
+    "productID": "Product_ID",
+    "description": "Description",
+    "categories": "Categories",
+    "unit": "Unit",
+    "startingPrice": "Base price"
+  },
+  "Profile": {
+    "heather": "Heather Wright",
+    "pngOrJpg": "PNG or JPG not exceeding 1000px in width and height.",
+    "download": "Upload",
+    "accountInformation": "Account information",
+    "firstName": "First name",
+    "surname": "Family name",
+    "language": "Language",
+    "Validation": {
+      "firstName": "Please enter you first name.",
+      "surname": "Please enter you surname name.",
+      "phoneNumber": "Please enter you phoneNumber.",
+      "profile_pic": "Please enter your profile picture"
+    }
+  },
+  "SideBar": {
+    "menuPrincipal": "main menu",
+    "message": "Message",
+    "catalogue": "Catalog",
+    "contacts": "Contacts"
+  },
+  "Contact": {
+    "viewAll": "See all"
+  },
+  "LoginForm": {
+    "schedule": "Schedule a demo",
+    "welcome": "Welcome back!",
+    "letBuild": "Let's build something great together",
+    "associatedEmail": "No account found associated with this email",
+    "associatedPhone": "No account found associated with this phone number",
+    "verification": "You will receive a verification code by SMS to log into your account or by email.",
+    "connexion": "Connection",
+    "throughOtherAccounts": "or do it via other accounts",
+    "placeHolder": "Cell phone number"
+  },
+  "Otp": {
+    "confirmation": "Confirmation",
+    "registration": " Enter the 5-digit OTP code that was sent to you via SMS or email to complete your account registration.",
+    "invalid": "Invalid code please try again",
+    "receive": "You did not receive a code?",
+    "resend": "Resend",
+    "confirm": "Confirm"
+  },
+  "Common": {
+    "elements":"elements",
+    "articles": "articles",
+    "results": "results found",
+    "email": "Email",
+    "phoneNumber": "Phone number",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "update": "update",
+    "saveChanges": "Save changes",
+    "invitation": "Invitation",
+    "invite": "Invite",
+    "status": "Status",
+    "order": "Ordering",
+    "editCustomer": "Modify the member",
+    "delete": "Delete",
+    "name": "Name",
+    "role": "Role",
+    "members": "Members",
+    "savesuccessfully": "Save successfully!",
+    "typeOfOrganization": "Type of organization",
+    "everything": "Everything seems to be going well here.",
+    "admin": "Admin",
+    "manager": "Manager",
+    "employee": "Employee",
+    "ok": "Ok",
+    "orderToInvite": "you must create an organization first in order to invite"
+  },
+  "Pagination": {
+    "prev": "Prev",
+    "next": "Next"
+  }
+}

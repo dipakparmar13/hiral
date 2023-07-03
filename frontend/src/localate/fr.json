@@ -1,0 +1,260 @@
+{
+  "Catalogue": {
+    "products": "Produits"
+  },
+  "AddMemberModal": {
+    "addMembers": "Ajouter des membres",
+    "selectCurrent": "Sélectionner les membres actuels de l'organisation.",
+    "inviteUsers": "Inviter 3 utilisateurs"
+  },
+  "AddressCard": {
+    "address": "Adresse de l’organisation",
+    "completingData": "En complétant vos données, vos clients seront en mesure d'identifier à qui ils s'adressent.",
+    "addres": "Adresse",
+    "taxNumber": "Numéro de taxes",
+    "city": "Ville",
+    "country": "Pays",
+    "postalCode": "Code Postal",
+    "Validation": {
+      "email": "Veuillez saisir votre nom d'utilisateur.",
+      "phoneNumber": "Veuillez saisir le nom de votre numéro de téléphone.",
+      "addres": "Veuillez saisir votre adresse.",
+      "taxNumber": "Veuillez saisir le nom de votre numéro d'identification fiscale.",
+      "city": "Veuillez saisir le nom de votre ville.",
+      "country": "Veuillez saisir le nom de votre pays.",
+      "postalCode": "Veuillez saisir le nom de votre code postal."
+    }
+  },
+  "Chat": {
+    "restaurant": "Restaurant",
+    "enterMessage": "Enter message",
+    "joinMessage": "rejoint cette chaîne",
+    "date": "Mardi, 18 avril",
+    "chatPlaceholder": "Écrive votre message"
+  },
+  "Detail": {
+    "customerDetails": "Détails du client"
+  },
+  "InvitationModal": {
+    "customerAccount": "Compte client",
+    "sms": "SMS",
+    "email": "Email",
+    "Validation": {
+      "customerAccount": "Veuillez saisir votre compte.",
+      "phoneNumber": "Veuillez saisir votre numéro de téléphone.",
+      "typeOforganization": "Veuillez sélectionner une organisation."
+    }
+  },
+  "DataTable": {
+    "company": "Compagnie",
+    "orderDate": "Date de commande",
+    "amount": "Montant",
+    "deliveryDate": "Date de livraison"
+  },
+  "EditModal": {
+    "accountNumbers": "Numéros de compte",
+    "business": "Entreprise",
+    "phoneNumber": "N° de téléphone",
+    "address": "Address",
+    "Validation": {
+      "accountNumber": "Veuillez saisir votre numéro de compte.",
+      "company": "Veuillez saisir le nom de votre entreprise.",
+      "phoneNumber": "Veuillez saisir votre numéro de téléphone.",
+      "typeOfOrganization": "Veuillez sélectionner la cafétéria.",
+      "address": "Veuillez saisir votre adresse."
+    }
+  },
+  "DeleteAccount": {
+    "deleteAccount": "Supprimer le compte",
+    "clickOnDeleteAccount": "Si vous cliquez sur 'supprimer ce compte', sachez que le compte  sera définitivement supprimé."
+  },
+  "DeleteModal": {
+    "deleteSure": "Vous êtes sûr de vouloir supprimer ?",
+    "deleteAllAccess": "Si vous cliquez sur le bouton de suppression de l'onglet, vous supprimerez automatiquement tous les accès au compte."
+  },
+  "EditMember": {
+    "roleType": "Type of role",
+    "placeHolder": "robert.fox@example.com",
+    "bonnie": "Bonnie Green",
+    "Validation": {
+      "email": "Veuillez saisir votre adresse électronique.",
+      "name": "Veuillez saisir votre nom.",
+      "role": "Veuillez sélectionner le rôle."
+    }
+  },
+  "Filter": {
+    "nowadays": "Aujourd’hui",
+    "custom": "Personnalisé",
+    "yesterday": "Hier",
+    "thisWeek": "Cette semaine",
+    "thisMonth": "Ce mois-ci",
+    "to": "À",
+    "apply": "Appliquez",
+    "endDate": "Date de fin",
+    "startDate": "Date de début"
+  },
+  "Status": {
+    "dateFilters": "Filtres Date",
+    "see_everything": "Voir Tout",
+    "confirm": "Confirmer",
+    "onHold": "En Attente",
+    "cancel": "Annuler",
+    "close": "Fermer"
+  },
+  "Header": {
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "organization": "Organisation"
+  },
+  "HeaderData": {
+    "dashboard": "Tableau de bord",
+    "catalogue": "Catalogue",
+    "contact": "Contacts",
+    "setting": "Paramètres du compte",
+    "tableaubord":"Tableau de bord"
+  },
+  "InviteMemberModal": {
+    "emailAddress": "Adresse e-mail",
+    "manageAndInvite": "Gérer et inviter les membres de l'équipe.",
+    "add": "Ajouter",
+    "invite": "Invitez",
+    "Validation": {
+      "email": "Veuillez saisir votre adresse électronique.",
+      "role": "Veuillez sélectionner le rôle."
+    },
+    "Options": {
+      "Admin": "Administratrice",
+      "Employe": "Employee",
+      "Administrator": "Gestionnaire",
+      "Billing": "Facturation"
+    }
+  },
+  "ProductModal": {
+    "AddProduct": "Importer",
+    "File": "Déposer",
+    "ChooseFile": "Choisir le fichier",
+    "No File Chosen": "Aucun fichier choisi",
+    "Save": "Sauvegarder",
+    "Cancel": "Annuler"
+  },
+  "Management": {
+    "roleManagement": "Gestion des rôles",
+    "manageYourAccount": "Gérez les rôles de votre compte et donnez à vos administrateurs uniquement les autorisations requises."
+  },
+  "Memeber": {
+    "invite": "+ Invitez",
+    "viewAll": "View all"
+  },
+  "MemberCard": {
+    "editMembers": "Modifier les membres"
+  },
+  "Messaging": {
+    "messaging": "Messagerie"
+  },
+  "Overview": {
+    "orderOverview": "Aperçu de la commande",
+    "total": "Total",
+    "subtotal": "Sous-total"
+  },
+  "OrderTable": {
+    "image": "Image",
+    "quantity": "Quantité",
+    "unitPrice": "Prix unitaire ($)"
+  },
+  "OrderTracking": {
+    "orderTracking": "Suivi des commandes",
+    "confirm": "Confirmer",
+    "confirmed": "Marquer comme comfirmer"
+  },
+  "OrganizationCard": {
+    "organization": "Nom de l’organisation",
+    "visibleName": " C'est le nom visible de votre organisation dans Neobox.",
+    "logo": "Logo",
+    "download": "Télécharger"
+  },
+  "ProductTable": {
+    "image": "Image",
+    "productID": "Produit_ID",
+    "description": "Description",
+    "categories": "Catégories",
+    "unit": "Unité",
+    "startingPrice": "Prix de base"
+  },
+  "Profile": {
+    "heather": "Heather Wright",
+    "pngOrJpg": "PNG ou JPG ne dépassant pas 1000px de largeur et de hauteur.",
+    "download": "Télécharger",
+    "accountInformation": "Informations sur le compte",
+    "firstName": "Prénom",
+    "surname": "Nom de famille",
+    "language": "Langage",
+    "Validation": {
+      "firstName": "Veuillez saisir votre prénom.",
+      "surname": "Veuillez saisir votre nom de famille.",
+      "phoneNumber": "Veuillez saisir votre numéro de téléphone.",
+      "profile_pic": "Veuillez saisir votre photo de profil"
+    }
+  },
+  "SideBar": {
+    "menuPrincipal": "menu principal",
+    "message": "Message",
+    "catalogue": "Catalogue",
+    "contacts": "Contacts"
+  },
+  "Contact": {
+    "viewAll": "Voir tous"
+  },
+  "LoginForm": {
+    "schedule": "Planifier une démo",
+    "welcome": "Bienvenue à nouveau !",
+    "letBuild": "Construisons quelque chose de grand ensemble",
+    "associatedEmail": "Aucun compte trouvé associé à ce courriel",
+    "associatedPhone": "Aucun compte trouvé associé à ce numéro de téléphone",
+    "verification": "Vous recevrez un code de vérification par SMS pour vous connecter à votre compte ou par e-mail.",
+    "connexion": "Connexion",
+    "throughOtherAccounts": "ou le faire via d'autres comptes",
+    "placeHolder": "Numéro de téléphone mobile"
+  },
+  "Otp": {
+    "confirmation": "Comfirmation",
+    "registration": " Entrez le code OTP à 5 chiffres qui vous a été envoyé par SMS ou par e-mail pour terminer l'enregistrement de votre compte.",
+    "invalid": "Code invalide veuillez essayer à nouveau",
+    "receive": "Vous n’avez pas reçu de code?",
+    "resend": "Renvoyer",
+    "confirm": "Comfirmer"
+  },
+  "Common": {
+    "elements":"éléments",
+    "articles": "articles",
+    "results": "résultats trouvés",
+    "email": "Courriel",
+    "phoneNumber": "Numéro de téléphone",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "save": " Sauvegarder",
+    "update": "mise à jour",
+    "saveChanges": "Sauvegarder les changements",
+    "invitation": "Invitation",
+    "invite": " Inviter",
+    "status": "Status",
+    "order": "Commande",
+    "typeOfOrganization": "Type d'organisation",
+    "editCustomer": "Modifier le membre",
+    "delete": "Supprimer",
+    "role": "Rôle",
+    "name": "Nom",
+    "members": "Membres",
+    "savesuccessfully": "Sauvegardez avec succès !",
+    "everything": "Tout semble aller bien ici.",
+    "admin": "Admin",
+    "manager": "Gestionnaire",
+    "employee": "Employé",
+    "ok": "d'accord",
+    "orderToInvite": "vous devez d'abord créer une organisation afin d'inviter"
+  },
+  "Pagination": {
+    "prev": "Précédente",
+    "next": "Suivant"
+  }
+}

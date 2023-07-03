@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "Fruits et légumes",
+    "color": "0xff53B175",
+    "image": "https://www.educatout.com/images/La-mathematique-du-groupe-des-legumes-et-fruits.jpg"
+  },
+  {
+    "_id": 2,
+    "name": "Huile de cuisson",
+    "color": "0xffF8A44C",
+    "image": "https://produits.bienmanger.com/35164-0w600h600_Assortiment_Huiles_Bio_Cuisson_Bioplanete.jpg"
+  },
+  {
+    "_id": 3,
+    "name": "Viande et poisson",
+    "color": "0xffF7A593",
+    "image": "https://www.santepourtous.nc/images/sampledata/thematiques/diabete/espace-grand-public/solutions-au-quotidien/viandes-poissons-oeufs-grand.jpg"
+  },
+  {
+    "_id": 4,
+    "name": "Boulangerie et snacks",
+    "color": "0xffD3B0E0",
+    "image": "https://www.burgundy-tourism.com/uploads/external/860a68cba3b175e4725725ce06f95380-P1150535-1600x900.jpg"
+  },
+  {
+    "_id": 5,
+    "name": "Produits laitiers et œufs",
+    "color": "0xffFDE598",
+    "image": "https://fac.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Ffac.2F2022.2F05.2F10.2F379792d2-3fbc-4257-916a-2eab875c1091.2Ejpeg/1200x900/quality/80/crop-from/center/cancer-une-consommation-importante-de-produits-laitiers-augmenterait-le-risque.jpeg"
+  }
+]

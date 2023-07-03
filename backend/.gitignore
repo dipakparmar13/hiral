@@ -1,0 +1,11 @@
+/node_modules
+# /package-lock.json
+.env
+/uploads
+/uploads/profile
+/uploads/chat
+/uploads/invitation
+/uploads/organization
+/uploads/supplier
+# production
+/build
